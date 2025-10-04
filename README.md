@@ -87,7 +87,7 @@
   <a href="https://leetcode.com/u/12a14praveen/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/praveen/profile">
+  <a href="https://www.geeksforgeeks.org/user/12a14pr6jee/">
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
 </p>
